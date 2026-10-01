@@ -7,8 +7,7 @@ Checkout our CONTRIBUTING.md for information on how to contribute!
 ## Next Up
 
 A couple projects we have in mind are:  
-[] Search CLI  
-[] Uhh..
+- Search CLI
 
 ---
 Fun fact: ODS was started by a couple of cybersecurity students.
