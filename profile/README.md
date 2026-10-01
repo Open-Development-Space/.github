@@ -4,6 +4,11 @@ Hi there and welcome to Open Development Space! We are a small but friendly orga
 
 Checkout our CONTRIBUTING.md for information on how to contribute!
 
+## Next Up
+
+A couple projects we have in mind are:
+[ ] Search CLI
+[ ] Uhh..
 
 ---
 Fun fact: ODS was started by a couple of cybersecurity students.
