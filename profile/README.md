@@ -11,5 +11,11 @@ You can find these files in the .github repository in the profile folder.
 A couple projects we have in mind are:  
 - Search CLI
 
+## Projects In Flight
+
+The projects we are currently working on are:
+- OpenDevelopment-Space
+
+
 ---
 Fun fact: ODS was started by a couple of cybersecurity students.
