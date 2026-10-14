@@ -10,6 +10,7 @@ You can find these files in the .github repository in the profile folder.
 
 A couple projects we have in mind are:  
 - Search CLI
+- Python Projects for Beginners
 
 ## Projects In Flight
 
