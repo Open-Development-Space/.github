@@ -15,6 +15,7 @@ A couple projects we have in mind are:
 
 The projects we are currently working on are:
 - OpenDevelopment-Space
+- resKern
 
 
 ---
